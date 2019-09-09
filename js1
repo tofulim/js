@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>ex3</title>
+</head>
+<body>
+  <h1> WEB <h1>
+  <input type="button" value="night" onclick="
+  document.querySelector('body').style.backgroundColor='black';
+  document.querySelector('body').style.color='white';">
+  <input type="button" value="day" onclick="
+    document.querySelector('body').style.backgroundColor='white';
+  document.querySelector('body').style.color='black';">
+  <h2 style="background-color:coral;color:powderblue"> JAva Script <h2>
+  <p>
+    <span style="font-weight:bold;">javascript</span>asdwadas;dmw;dmaskldwa
+    dasd
+    wad
+    asd
+    wadasdwadas
+    dawdasdwa
+    dasdwadasd
+    wadasdaw
+    dasdwadas
+  </p>
+
+</body>
+</html>
